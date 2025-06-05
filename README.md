@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Bruno]! 👋
 
 ---
 
 ## 🚀 About Me
 
-* **Who I Am:** Briefly introduce yourself. What's your core identity as a developer/individual? (e.g., "A passionate software engineer," "A lifelong learner exploring the intersection of X and Y," "A backend developer with a love for clean architecture.")
-* **What I Do:** Describe your primary focus or role. (e.g., "I specialize in building robust and scalable web applications," "My expertise lies in data analysis and visualization," "I'm currently honing my skills in front-end development with React.")
-* **My Driving Force:** What motivates you in your work or in tech? (e.g., "I'm driven by solving complex problems," "I love creating tools that empower users," "I'm fascinated by how technology can transform industries.")
+* **Who I Am:** Currently studying Informational Systems, a mixture of administration, project managing, and software development.
+* **What I Do:** I have familiarity with front-end and back-end, as well as SCRUM-AGILE methodologies. 
+* **My Driving Force:** I have always had interest at existing at the forefront of technology. Curiosity for the yet untread. For this reason, I study both software engineering as well as project managing. Creating a technical basis, and also maintaining a sharp-edge on communication and sociability.
 
 ---
 
