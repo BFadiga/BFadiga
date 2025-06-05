@@ -40,11 +40,11 @@
     * Learning informational security (Confidentiality and integrity).
     * Learning Agile methodologies such as SCRUM with project managing based on Sprint(s).
 * **Personal Projects:**
-  **[Agro Connect](https://github.com/viniciusmoraesz/AgroConnect)**
+ * **[Agro Connect](https://github.com/viniciusmoraesz/AgroConnect)**
     * Global Solution dedicated to guaranteeing the success of necessary nutritional crops. It has a high-fidelity front-end prototype dedicated to allowing farmers to receive on-demand alerts on adverse climates, as well as a hub to contact professionals.
-    **[InovaIndustria](https://github.com/viniciusmoraesz/High_Fidelity_Prototype)**
+  *  **[InovaIndustria](https://github.com/viniciusmoraesz/High_Fidelity_Prototype)**
     * Year-long project dedicated to digitalizing and renovating a consulting company with a new website.
-      **[Gamelist](https://github.com/BFadiga/Website-4School)**
+   *   **[Gamelist](https://github.com/BFadiga/Website-4School)**
     * My oldest project, an early attempt at creating a game-focused IMDB.
 * **Areas of Interest:** 
     * I am fascinated by Scrum, Agile methodology, and informational security.
